@@ -1,0 +1,4 @@
+app:
+  security:
+    username: user
+    password: pass123
